@@ -1,0 +1,15 @@
+# Compilación y binarios
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+
+# IDEs y configuración
+.vscode/
+.idea/
+build/
+
+# Sistema
+Thumbs.db
+Desktop.ini
